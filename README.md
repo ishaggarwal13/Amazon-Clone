@@ -1,2 +1,2 @@
-# Amazon-Clone
+# Ishaggrawal
 Created with CodeSandbox
