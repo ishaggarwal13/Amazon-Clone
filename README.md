@@ -1,5 +1,5 @@
-<div align='center'>
-Amazon Clone Using JS & React:grey_exclamation:
+<div align="center">
+  <h1> Amazon Clone Using JS & React:grey_exclamation: </h1>
 </div>
 
 
