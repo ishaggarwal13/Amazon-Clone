@@ -1,4 +1,4 @@
-#### Amazon Clone Using JS & React :grey_exclamation:
+#### Amazon Clone Using JS & React :grey_exclamation::grey_exclamation::grey_exclamation:
 
 
 
